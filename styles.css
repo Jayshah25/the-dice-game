@@ -15,9 +15,9 @@ h1 {
 h3 {
     color: white;
     background: #3498db;
-    width: 20%;
+    width: 21%;
     position: relative;
-    left: 41%;
+    left: 40%;
     text-align: center;
     font-size: 2rem;
     border-radius: 0.5rem;
@@ -61,7 +61,7 @@ h3 {
     display: inline-block;
     position: relative;
     width: 10%;
-    left: 70%;
+    left: 68%;
 }
   
 .reset-btn:hover {
@@ -92,7 +92,7 @@ h3 {
 .dot1 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     float: left;
     position: relative;
@@ -103,7 +103,7 @@ h3 {
 .dot2 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     float: left;
     position: relative;
@@ -114,7 +114,7 @@ h3 {
 .dot3 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     position: relative;
     left: 75%;
@@ -124,7 +124,7 @@ h3 {
 .dot4 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     position: relative;
     top: 60%;
@@ -135,7 +135,7 @@ h3 {
 .dot5 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     position: relative;
     top: 60%;
@@ -146,15 +146,15 @@ h3 {
 .dot6 {
     height: 20px;
     width: 20px;
-    background-color: white;
+    background-color: blue;
     border-radius: 50%;
     position: relative;
     top: 60%;
     left: 75%;
 }
 
-.removedDot {
-    background-color: blue;
+.addDot {
+    background-color: white;
 }
 
 .play-btn {
@@ -176,8 +176,8 @@ h3 {
     /* custom */
     display: inline-block;
     position: relative;
-    left: 35rem;
-    width: 25rem;
+    left: 38%;
+    width: 26%;
     margin-top: 2rem;
   }
   
